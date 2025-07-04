@@ -1,0 +1,9 @@
+html {
+  font-family: 'Inter', 'Segoe UI', 'Arial', sans-serif;
+}
+
+@tailwind utilities;
+
+.mb-1 {
+    margin-bottom: 0.25rem;
+}
