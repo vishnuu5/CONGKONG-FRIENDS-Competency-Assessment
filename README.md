@@ -46,7 +46,7 @@ A responsive, mobile-first dashboard for an AI Live Matching platform, built wit
    - Set up environment variables if needed
 
 ## Demo
-- **Deployed App:** [https://congkong-friends-assignment.vercel.app](https://congkong-friends-assignment.vercel.app)
+- **Deployed App:** [Click-Here](https://congkong-friends-competency-assessm.vercel.app)
 - **Video Presentation:** [Video Link Here](#)
 
 
