@@ -31,7 +31,12 @@ A responsive, mobile-first dashboard for an AI Live Matching platform, built wit
 
 3. **Configure Supabase:**
    - Create a project at [supabase.com](https://supabase.com/)
-   - Copy your Supabase URL and anon key into `utils/supabaseClient.js`
+   - Copy your Supabase URL and anon key
+   - Create a `.env` file in your project root and add:
+     ```bash
+     NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+     NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+     ```
    - Run the provided SQL schema in Supabase SQL editor
    - Add dummy data via the Supabase Table Editor
 
@@ -49,11 +54,11 @@ A responsive, mobile-first dashboard for an AI Live Matching platform, built wit
 - **Deployed App:** [Click-Here](https://congkong-friends-competency-assessm.vercel.app)
 - **Video Presentation:** [Video Link Here](#)
 
-
 ## Deliverables
 - GitHub public repository URL with the project code and README
 - Deployed app URL
 - Video Presentation with voice-over walkthrough
 
 ---
-** THANK YOU **
+
+**THANK YOU**
