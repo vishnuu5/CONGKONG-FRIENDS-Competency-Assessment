@@ -60,7 +60,7 @@ export default function KPIStats() {
             <div className="flex flex-row items-center w-full justify-center">
               <div className="flex flex-col items-center mr-2">
                 <item.icon className="h-8 w-8 text-blue-500" />
-                <div className="text-lg font-bold text-gray-400 mt-1">{item.extra}</div>
+                <div className="text-lg font-bold text-black mt-1">{item.extra}</div>
               </div>
               <div className="flex flex-col items-center ml-2">
                 <span className="text-xs font-semibold text-gray-700 leading-tight">{item.label1}</span>
