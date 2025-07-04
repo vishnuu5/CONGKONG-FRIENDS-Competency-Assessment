@@ -81,7 +81,7 @@ export default function KPIStats() {
             </>
           )}
           {!item.vertical && !item.matchesLayout && item.extra && (
-            <div className="text-lg font-bold text-gray-400 mt-1">{item.extra}</div>
+            <div className="text-lg font-bold text-black mt-1">{item.extra}</div>
           )}
         </div>
       ))}
